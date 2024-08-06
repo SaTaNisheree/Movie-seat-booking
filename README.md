@@ -5,7 +5,7 @@ Welcome to the Movie Ticket Booking Website! This full-stack application allows 
 ## Features
 
 - Browse a list of currently showing movies
-- View detailed movie information including synopsis, cast, and showtimes
+- View detailed movie information including synopsis and showtimes
 - Book tickets for selected showtimes
 - User authentication and profile management
 - Admin panel for managing movie listings and showtimes
